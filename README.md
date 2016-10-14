@@ -17,3 +17,7 @@ ctrl+a m 鼠标滑动模式
 ctrl+a c 新tmux窗口 
 
 ctrl+a z 全屏当前小窗口
+
+ctrl+a s 列出所有tmux
+
+ctrl+a d 保存并退出目前的tmux
